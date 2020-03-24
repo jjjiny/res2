@@ -1,7 +1,0 @@
-entity\Member.class
-entity\Product.class
-entity\Orders.class
-entity\Traveller.class
-entity\UsersInfo.class
-entity\Permission.class
-entity\Role.class
